@@ -33,7 +33,7 @@ We will set up a Whats App group for updates.
 
 We will be staying in 2 Gum Lane, Queenstown, about 1km from the center of Queenstown (it's a small city)
 
-** Abeer     +61497643994 **
+**Abeer      +61497643994**
 
 **Aria (Thu) +61423216574**
 
@@ -57,7 +57,7 @@ The current forecast is 5-15 degrees, with a decent chance of some rain. It can 
 
 ## Events
 
-We would love to have you at all the events.
+We would love to have you at all the events. But if there are some events that you can't make, please let us know. 
 
 ### Friday, 20th April
 
@@ -81,10 +81,10 @@ Let us know if you want to opt out, otherwise we will put you into one of the fo
 
 ### Sunday, 22nd April
 
-#### Morning Ceremony (1000 at Secret Location #1)
+#### Morning Ceremony (11:00 at Secret Location #1)
 
 
-#### Reception (1300 onwards at Secret Location #2)
+#### Reception (13:00 onwards at Secret Location #2)
 
 
-#### Evening Gathering (7PM till late at 2 Gum Lane, Queenstown)
+#### Evening Gathering (7:30PM till late at 2 Gum Lane, Queenstown)
