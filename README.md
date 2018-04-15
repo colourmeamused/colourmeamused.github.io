@@ -11,7 +11,10 @@
 		- [Saturday, 21st April](#saturday-21st-april)
 			- [Exploring the Wilderness (0800 to 1300 starting at the Lake Esplanade)](#exploring-the-wilderness-0800-to-1300-starting-at-the-lake-esplanade)
 			- [The Ridiculous Race (1330 onwards starting at the Lake Esplanade again)](#the-ridiculous-race-1330-onwards-starting-at-the-lake-esplanade-again)
-		- [Sunnday, 22nd April](#sunnday-22nd-april)
+		- [Sunday, 22nd April](#sunday-22nd-april)
+			- [Morning Ceremony (1000 at Secret Location #1)](#morning-ceremony-1000-at-secret-location-1)
+			- [Reception (1300 onwards at Secret Location #2)](#reception-1300-onwards-at-secret-location-2)
+			- [Evening Gathering (7PM till late at 2 Gum Lane, Queenstown)](#evening-gathering-7pm-till-late-at-2-gum-lane-queenstown)
 
 <!-- /TOC -->
 
@@ -76,13 +79,12 @@ The fun way is to take part in The Ridiculous Race, follow the clues, and discov
 
 Let us know if you want to opt out, otherwise we will put you into one of the four teams.
 
-### Sunnday, 22nd April
+### Sunday, 22nd April
+
+#### Morning Ceremony (1000 at Secret Location #1)
 
 
+#### Reception (1300 onwards at Secret Location #2)
 
 
-
-
-
-
-
+#### Evening Gathering (7PM till late at 2 Gum Lane, Queenstown)
