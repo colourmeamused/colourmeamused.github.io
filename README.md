@@ -1,3 +1,20 @@
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [GETTING READY FOR SOUTH ISLAND (IT'S NZ BUT SOUTH)](#getting-ready-for-south-island-its-nz-but-south)
+	- [The Boring Stuff](#the-boring-stuff)
+		- [Staying In Touch](#staying-in-touch)
+		- [Arriving and Getting Around](#arriving-and-getting-around)
+		- [Food and Stuff](#food-and-stuff)
+		- [What To Bring](#what-to-bring)
+	- [Events](#events)
+		- [Friday, 20th April](#friday-20th-april)
+		- [Saturday, 21st April](#saturday-21st-april)
+			- [Exploring the Wilderness (0800 to 1300 starting at the Lake Esplanade)](#exploring-the-wilderness-0800-to-1300-starting-at-the-lake-esplanade)
+			- [The Ridiculous Race (1330 onwards starting at the Lake Esplanade again)](#the-ridiculous-race-1330-onwards-starting-at-the-lake-esplanade-again)
+		- [Sunnday, 22nd April](#sunnday-22nd-april)
+
+<!-- /TOC -->
+
 # GETTING READY FOR SOUTH ISLAND (IT'S NZ BUT SOUTH)
 
 Hello everyone,
@@ -58,3 +75,14 @@ The easy way is to message us once you reach Queenstown, take the pledge of secr
 The fun way is to take part in The Ridiculous Race, follow the clues, and discover the answer yourself.
 
 Let us know if you want to opt out, otherwise we will put you into one of the four teams.
+
+### Sunnday, 22nd April
+
+
+
+
+
+
+
+
+
