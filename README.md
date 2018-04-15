@@ -61,7 +61,7 @@ We would love to have you at all the events. But if there are some events that y
 
 ### Friday, 20th April
 
-We meet [in the park near the lake esplanade](https://goo.gl/maps/6ah1o3bjbbG2) at 5PM and set off for an evening drive and meet and greet.
+We meet [in the park near Lake Esplanade](https://goo.gl/maps/6ah1o3bjbbG2) at 5PM and set off for an evening drive and meet and greet.
 
 ### Saturday, 21st April
 
