@@ -39,6 +39,22 @@ We will be staying in 2 Gum Lane, Queenstown, about 1km from the center of Queen
 
 ### Arriving and Getting Around
 
+<div id="metservice-widget">
+<script>
+(function(d){
+var i = d.createElement("iframe");
+i.setAttribute("src", "https://services.metservice.com/weather-widget/widget?params=blue|large|portrait|days-3|modern&loc=queenstown&type=urban&domain=" + d.location.hostname);
+i.style.width = "300px";
+i.style.height = "239px";
+i.style.border = "0";
+i.setAttribute("allowtransparency", "true");
+i.setAttribute("id", "widget-iframe");
+d.getElementById("metservice-widget").appendChild(i);
+})(document);
+</script>
+</div>
+
+
 If you can let us know when you will arrive, where you plan to stay, that will be great and help us coordinate.
 
 Also can you let us know if you have rented or plan to rent a car, so we can figure out if we need to organize extra transport. It is best to have a car to get around, public transport is punctual but limited and not very flexible.
