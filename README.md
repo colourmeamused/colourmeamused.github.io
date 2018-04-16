@@ -71,6 +71,10 @@ There's a decent variety of restaurants in and around Queenstown.
 
 The current forecast is 5-15 degrees, with a decent chance of some rain. It can get windy. Please bring warm comfortable clothes and walking shoes for Saturday, 21st, and rain gear. The plan is to make the best of any weather we run into.
 
+### What Not to Bring
+
+Wedding gifts. Your presence is the best gift we can hope to receive. 
+
 ## Events
 
 We would love to have you at all the events. But if there are some events that you can't make, please let us know. 
