@@ -6,6 +6,7 @@
 		- [Arriving and Getting Around](#arriving-and-getting-around)
 		- [Food and Stuff](#food-and-stuff)
 		- [What To Bring](#what-to-bring)
+		- [What Not to Bring](#what-not-to-bring)
 	- [Events](#events)
 		- [Friday, 20th April](#friday-20th-april)
 		- [Saturday, 21st April](#saturday-21st-april)
