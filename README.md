@@ -55,6 +55,12 @@ We will move the Ridiculous Race start to 2pm so we have enough time.
 
 ## BEFORE YOU START
 
+
+- A more precise [meeting point](https://goo.gl/maps/8ehaAu97wKk): https://goo.gl/maps/8ehaAu97wKk
+The same park, we meet at the cark park just before the roundabout.
+
+- Please let us know if you can't make it, we will try to wait for everyone before we leave.
+
 - If you want to opt out of the Ridiculous Race, this is your LAST CHANCE. Not really, but please let us know :-) No pressure. will involve a bit of walking / running around, depending on how badly you want to win, and chasing ridiculous clues.
 
 - We should have at least one person with an active mobile SIM in each car. Please let Abeer/Aria know if you don't so we can shuffle.
