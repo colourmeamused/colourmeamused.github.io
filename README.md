@@ -41,7 +41,6 @@ We are off on a day trip to [Makarora Valley](https://www.lakewanaka.co.nz/plan-
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d728073.3498590288!2d168.45635615829335!3d-44.534884727553056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0xa9d4e28172d07365%3A0xe3aa68245bf75dee!2sOne+Mile+Car+Park+Lake+Esplanade%2C+Queenstown!3m2!1d-45.037638199999996!2d168.6485611!4m5!1s0x6cd5674c70df2a35%3A0xc801d0fea1bbf729!2sBlue+Pools+Walk+Haast+Pass-Makarora+Rd%2C+Mt+Aspiring+National+Park+9382!3m2!1d-44.164171499999995!2d169.2767831!4m5!1s0x6cd57d5f669c919b%3A0x7897059ae4e158fc!2sGates+of+Haast%2C+West+Coast!3m2!1d-44.039798399999995!2d169.3798685!4m5!1s0x6cd57d43b82e7fdb%3A0x432887a761d4ef16!2sThunder+Creek+Falls+Haast+Pass-Makarora+Road%2C+Mt+Aspiring+National+Park!3m2!1d-44.0381238!2d169.3650131!5e0!3m2!1sen!2snz!4v1524250210178" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-![offline](https://github.com/colourmeamused/www.wombatism.club/raw/master/daytripmap.jpg)
 
 
 On the way back, we will stop at [Wanaka](https://www.lakewanaka.co.nz/things-to-do/wanaka-food-and-drink/) and grab some lunch.
