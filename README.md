@@ -36,7 +36,7 @@ Yes!
 We are off on a day trip to [Makarora Valley](https://www.lakewanaka.co.nz/plan-your-trip/regions/makarora/) and the [Blue Pools Track](https://www.newzealand.com/int/feature/blue-pools-track/) If time permits, all the way to the Gates of Haast and Thunder Creek Falls.
 
 
-![offline](https://github.com/colourmeamused/www.wombatism.club/raw/master/daytripmap.png)
+![offline](https://github.com/colourmeamused/www.wombatism.club/raw/master/daytripmap.jpg)
 
 
 On the way back, we will stop at [Wanaka](https://www.lakewanaka.co.nz/things-to-do/wanaka-food-and-drink/) and grab some lunch.
@@ -61,7 +61,7 @@ We will move the Ridiculous Race start to 2pm so we have enough time.
 
 - Download offline maps with Google Maps for the region if you haven't already. The download is under 50MB, but better to do it over WiFi before heading off.
 
-![offline](https://github.com/colourmeamused/www.wombatism.club/raw/master/offlinemap.png)
+![offline](https://github.com/colourmeamused/www.wombatism.club/raw/master/offlinemap.jpg)
 
 
 
