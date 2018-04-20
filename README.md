@@ -1,5 +1,9 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [21st April Saturday MORNING UPDATE!](#21st-april-saturday-morning-update)
+	- [WE HAVE A PLAN?](#we-have-a-plan)
+	- [WHAT TO BRING](#what-to-bring)
+	- [BEFORE YOU START](#before-you-start)
 - [GETTING READY FOR SOUTH ISLAND (IT'S NZ BUT SOUTH)](#getting-ready-for-south-island-its-nz-but-south)
 	- [The Boring Stuff](#the-boring-stuff)
 		- [Staying In Touch](#staying-in-touch)
@@ -13,11 +17,53 @@
 			- [Exploring the Wilderness (0800 to 1300 starting at the Lake Esplanade)](#exploring-the-wilderness-0800-to-1300-starting-at-the-lake-esplanade)
 			- [The Ridiculous Race (1330 onwards starting at the Lake Esplanade again)](#the-ridiculous-race-1330-onwards-starting-at-the-lake-esplanade-again)
 		- [Sunday, 22nd April](#sunday-22nd-april)
-			- [Morning Ceremony (1000 at Secret Location #1)](#morning-ceremony-1000-at-secret-location-1)
-			- [Reception (1300 onwards at Secret Location #2)](#reception-1300-onwards-at-secret-location-2)
-			- [Evening Gathering (7PM till late at 2 Gum Lane, Queenstown)](#evening-gathering-7pm-till-late-at-2-gum-lane-queenstown)
+			- [Morning Ceremony (11:00 at Secret Location #1)](#morning-ceremony-1100-at-secret-location-1)
+			- [Reception (13:00 onwards at Secret Location #2)](#reception-1300-onwards-at-secret-location-2)
+			- [Evening Gathering (7:30PM till late at 2 Gum Lane, Queenstown)](#evening-gathering-730pm-till-late-at-2-gum-lane-queenstown)
 
 <!-- /TOC -->
+
+# 21st April Saturday MORNING UPDATE!
+
+Good Morning!
+The weather looks beautiful so we can stick to the plan.
+
+
+## WE HAVE A PLAN?
+
+Yes!
+
+We are off on a day trip to [Makarora Valley](https://www.lakewanaka.co.nz/plan-your-trip/regions/makarora/) and the [Blue Pools Track](https://www.newzealand.com/int/feature/blue-pools-track/) If time permits, all the way to the Gates of Haast and Thunder Creek Falls.
+
+
+![offline](https://github.com/colourmeamused/www.wombatism.club/raw/master/daytripmap.png)
+
+
+On the way back, we will stop at [Wanaka](https://www.lakewanaka.co.nz/things-to-do/wanaka-food-and-drink/) and grab some lunch.
+
+
+We will move the Ridiculous Race start to 2pm so we have enough time.
+
+## WHAT TO BRING
+
+- Comfortable walking shoes
+- Sunscreen, sunglasses etc.
+- Mobiles, charged, especially if you have one with active roaming or a NZ sim
+- Layers to wear. It's a pleasant day but it can get windy, ideally you want layers you can remove / put on quickly.
+- Water and snacks, especially if you have dietary preferences. We will load up with water and Fergbakery.
+
+
+## BEFORE YOU START
+
+- If you want to opt out of the Ridiculous Race, this is your LAST CHANCE. Not really, but please let us know :-) No pressure. will involve a bit of walking / running around, depending on how badly you want to win, and chasing ridiculous clues.
+
+- We should have at least one person with an active mobile SIM in each car. Please let Abeer/Aria know if you don't so we can shuffle.
+
+- Download offline maps with Google Maps for the region if you haven't already. The download is under 50MB, but better to do it over WiFi before heading off.
+
+![offline](https://github.com/colourmeamused/www.wombatism.club/raw/master/offlinemap.png)
+
+
 
 # GETTING READY FOR SOUTH ISLAND (IT'S NZ BUT SOUTH)
 
@@ -74,11 +120,11 @@ The current forecast is 5-15 degrees, with a decent chance of some rain. It can 
 
 ### What Not to Bring
 
-Wedding gifts. Your presence is the best gift we can hope to receive. 
+Wedding gifts. Your presence is the best gift we can hope to receive.
 
 ## Events
 
-We would love to have you at all the events. But if there are some events that you can't make, please let us know. 
+We would love to have you at all the events. But if there are some events that you can't make, please let us know.
 
 ### Friday, 20th April
 
